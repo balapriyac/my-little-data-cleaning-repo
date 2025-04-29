@@ -10,3 +10,4 @@ Tutorials that can go in here...
 - [ ] [10 Useful Python One-Liners for Data Cleaning](https://www.kdnuggets.com/10-useful-python-one-liners-for-data-cleaning)
 - [ ] [10 Essential Data Cleaning Techniques Explained in 12 Minutes](https://www.kdnuggets.com/10-essential-data-cleaning-techniques-explained-in-12-minutes)
 - [ ] [Data Cleaning with Bash: A Handbook for Developers](https://www.kdnuggets.com/data-cleaning-with-bash-a-handbook-for-developers)
+- [ ] [The Essential Guide to Regular Expressions for Data Scientists](https://www.kdnuggets.com/the-essential-guide-to-regular-expressions-for-data-scientists)
