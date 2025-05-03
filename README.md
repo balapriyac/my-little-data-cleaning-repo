@@ -12,5 +12,6 @@ Tutorials that can go in here...
 - [ ] [Data Cleaning with Bash: A Handbook for Developers](https://www.kdnuggets.com/data-cleaning-with-bash-a-handbook-for-developers)
 - [ ] [The Essential Guide to Regular Expressions for Data Scientists](https://www.kdnuggets.com/the-essential-guide-to-regular-expressions-for-data-scientists)
 - [ ] [Tips for Effective Data Cleaning with Python](https://www.kdnuggets.com/tips-for-effective-data-cleaning-with-python)
-- [ ] []()
-- [ ] 
+- [ ] [5 Tips for Using Regular Expressions in Data Cleaning](https://www.kdnuggets.com/5-tips-for-using-regular-expressions-in-data-cleaning)
+- [ ] [10 Pandas One-Liners for Data Cleaning](https://www.kdnuggets.com/10-pandas-one-liners-for-data-cleaning)
+- [ ] [10 Essential Data Cleaning Techniques Explained in 12 Minutes](https://www.kdnuggets.com/10-essential-data-cleaning-techniques-explained-in-12-minutes)
