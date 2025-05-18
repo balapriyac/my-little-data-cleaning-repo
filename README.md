@@ -1,7 +1,7 @@
 # Little Repo of Data Cleaning
 > Messy data? This little repo’s got your back.
 
-WIP
+[The Essential Data Cleaning Playbook: Tutorials, Tips, and Must-Read Guides](https://www.kdnuggets.com/the-essential-data-cleaning-playbook-tutorials-tips-and-must-read-guides)
 
 Tutorials that can go in here...
 - [ ] [How to Fully Automate Data Cleaning with Python in 5 Steps](https://www.kdnuggets.com/how-to-fully-automate-data-cleaning-with-python-in-5-steps)
